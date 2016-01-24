@@ -1,0 +1,6 @@
+*.*~
+bin/
+filesystem/
+.classpath
+.project
+.settings/
